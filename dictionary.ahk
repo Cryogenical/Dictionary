@@ -8,3 +8,5 @@
 ::to::2
 ::leave::leaf
 ::leaves::leafs
+::date::d8
+::smart::samrt
